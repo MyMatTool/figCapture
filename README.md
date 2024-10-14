@@ -20,8 +20,11 @@ To clone to your own MATLAB Drive, click on the following icon
 
 1.  Launch MATLAB.
 2.  In the command window, type `figCapture` and press Enter.
-3.  The GUI will open, allowing you to adjust settings.
-4.  Click the "Capture" button to save the figure.
+   ```matlab
+   >> figCapture
+   ```
+4.  The GUI will open, allowing you to adjust settings.
+5.  Click the "Capture" button to save the figure.
 
 ## Configuration
 
@@ -35,5 +38,6 @@ The default filename includes the date and time of the GUI launch, ensuring uniq
 
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/b45812ef-cfa2-4726-b59c-caed37a9f37e" width="70%">
+<img src="https://github.com/user-attachments/assets/9066912c-5b7f-4b6f-9c2f-64154b5a9288" width="70%">
+
 
