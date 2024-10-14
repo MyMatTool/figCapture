@@ -1,0 +1,12 @@
+set ,val    ,Ext,Discription                                      
+0   ,jpeg   ,xxx.jpg,JPEG_image
+1   ,png    ,xxx.png,Portable_Network_Graphics(PNG)24-bit
+0   ,tiff   ,xxx.tif,TIFF_24-bit(compressed)
+0   ,tiffn  ,xxx.tif,TIFF_24-bit(not_compressed)
+0   ,pdf    ,xxx.pdf,Full_page_Portable_Document_Format(PDF)color
+1   ,eps    ,xxx.eps,Encapsulated_PostScript®(EPS)Level_3_black_and_white
+0   ,epsc   ,xxx.eps,Encapsulated_PostScript(EPS)Level_3_color
+0   ,eps2   ,xxx.eps,Encapsulated_PostScript(EPS)Level_2_black_and_white
+0   ,epsc2  ,xxx.eps,Encapsulated_Encapsulated_PostScript(EPS)Level2_color
+0   ,svg    ,xxx.svg,SVG(Scalable_Vector_Graphics)	                
+1   ,fig    ,xxx.fig,MATLAB®_FIG-file(invalid_for_Simulink_block_diagrams)
