@@ -14,7 +14,7 @@ This repository provides a MATLAB GUI named `figCapture` for easily saving figur
 
 ## Install
 To clone to your own MATLAB Drive, click on the following icon
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?host=blogs.mathworks.com&repo=japan-community/2023)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MyMatTool/figCapture)
 
 ## Usage
 
